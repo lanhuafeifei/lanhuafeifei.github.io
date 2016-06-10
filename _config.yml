@@ -1,6 +1,6 @@
 title:            Lan's Blog
 description:      真正生活得快乐而坚强.
-url:              # Site url, without a slash at the end.
+url:              "Http://localhost:4000"
 signoff:          顾岚｜ Lan
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -18,8 +18,8 @@ links:
 highlighter:      pygments
 permalink:        pretty
 markdown:         kramdown
-   kramdown:
-       input: GFM
+kramdown:
+    input: GFM
 redcarpet:
   extensions:
     - smart
