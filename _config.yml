@@ -15,11 +15,12 @@ links:
   - name:         GitHub
     url:          http://github.com/muan
     external:     true
-highlighter:      pygments
+
 permalink:        pretty
 
 kramdown:
     input: GFM
+syntax_highlighter: rouge
 redcarpet:
   extensions:
     - smart
