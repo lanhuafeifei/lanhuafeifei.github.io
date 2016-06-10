@@ -17,7 +17,9 @@ links:
     external:     true
 highlighter:      pygments
 permalink:        pretty
-markdown:         redcarpet
+markdown:         kramdown
+   kramdown:
+       input: GFM
 redcarpet:
   extensions:
     - smart
