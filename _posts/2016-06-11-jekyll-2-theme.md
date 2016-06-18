@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 低头族，拿什么拯救你?
-categories: [blog ]
-tags: [Chinese, Read, ] 
+date: 2013-05-06 16:27:31
+disqus: y
 description: 低头族,其实是一种病！有病就得治！
-
 ---
 <font color=#4AACC5 size=3>内容概要</font>
 
